@@ -1,0 +1,26 @@
+.header-main{
+    width: 100%;
+    min-height: 30%;
+    background-color: aliceblue;
+    display: flex;
+
+}
+.logo{
+    width: 85%;
+    object-fit: contain;
+    height: 109%;
+}
+.logo-main{
+    width: 10%;
+    height: 25%;
+}
+.header-left{
+    padding-left: 2%;
+    width: 100%;
+    width: 100%;
+
+}
+.header-left-bottom{
+    display: flex;
+    align-items: center;
+ }
